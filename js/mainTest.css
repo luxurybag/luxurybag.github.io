@@ -2,6 +2,7 @@
 body {
     margin: 0;
     background-image: url(https://raw.githubusercontent.com/CEPBEP/DNA-Analysis/main/mlkl.jpg);
+    background-position-y: -60px;
     color: #fff;
     background-size: contain;
     background-repeat: ;
