@@ -1,6 +1,6 @@
 body {
 	margin: 0;
-	background-color: #000;
+      /*background-color: #000;*/
 	color: #fff;
 	font-family: Monospace;
 	font-size: 13px;
@@ -60,7 +60,7 @@ a, button, input, select {
 	align-items: center;
 	justify-content: center;
 	flex-direction: column;
-	background: rgba(0,0,0,0.7);
+      /*background: rgba(0,0,0,0.7);*/
 }
 
 	#overlay button {
