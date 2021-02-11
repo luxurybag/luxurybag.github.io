@@ -9,9 +9,7 @@ body {
     font-size: 12px;
     line-height: 24px;
     overscroll-behavior: none;
-}
-
- canvas{opacity: 0.8;}
+}canvas{opacity: 0.8;}
 			#menu {
 				position: absolute;
 				bottom: 20px;
