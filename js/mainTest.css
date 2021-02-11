@@ -1,12 +1,14 @@
 
 body {
-	margin: 0;
-      /*background-color: #000;*/
-	color: #fff;
-	font-family: Monospace;
-	font-size: 13px;
-	line-height: 24px;
-	overscroll-behavior: none;
+    margin: 0;
+    background-image: url(https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/7zkAAOSwsh5bSSCx/$_57.JPG?set_id=8800005007);
+    color: #fff;
+    background-size: contain;
+    background-repeat: ;
+    font-family: Monospace;
+    font-size: 12px;
+    line-height: 24px;
+    overscroll-behavior: none;
 }
 a {
 	color: #ff0;
