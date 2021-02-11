@@ -10,8 +10,8 @@ body {
     line-height: 24px;
     overscroll-behavior: none;
 }canvas{opacity: 0.8;}
-			#menu {
-				position: absolute;
+#menu {
+   position: absolute;
 				bottom: 20px;
 				width: 100%;
 				text-align: center;
